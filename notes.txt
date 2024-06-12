@@ -2,7 +2,12 @@ ONCE
 - git init
 -create .gitignore file
 
+ONCE
+-git remote add NAME URL
+-git branch -M master
+-git push -u NAME
+
 MANY
 -git add .
 -git commit -m "Your Commit here"
--git push params
+-git push 
