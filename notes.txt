@@ -3,6 +3,8 @@ ONCE
 -create .gitignore file
 
 ONCE
+-git add .
+-git commit -m "Your Commit here"
 -git remote add NAME URL
 -git branch -M master
 -git push -u NAME
