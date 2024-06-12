@@ -20,3 +20,6 @@ git checkout --orphan branch-name (creat new EMPTY branch)then you must run git 
 git branch -D branch-name (delete branch)
 git switch branch-name
 git push --set-upstream NAME BRANCH-NAME (run for push with another branch)
+
+befor start your work & befor push it to github or another git client
+you must run this command: git pull
