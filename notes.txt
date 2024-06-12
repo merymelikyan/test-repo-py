@@ -13,3 +13,9 @@ MANY
 -git add .
 -git commit -m "Your Commit here"
 -git push 
+
+BRANCH
+git branch (see all branches)
+git branch branch-name (creat new branch)
+git branch -D branch-name (delete branch)
+git switch branch-name
