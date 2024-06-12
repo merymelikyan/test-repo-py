@@ -1,0 +1,8 @@
+ONCE
+- git init
+-create .gitignore file
+
+MANY
+-git add .
+-git commit -m "Your Commit here"
+-git push params
